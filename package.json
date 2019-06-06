@@ -14,8 +14,7 @@
     "id": "cordova-plugin-telerik-imagepicker",
     "platforms": [
       "ios",
-      "android",
-      "wp8"
+      "android"
     ]
   },
   "repository": {
